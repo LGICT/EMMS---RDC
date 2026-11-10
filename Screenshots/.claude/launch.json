@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "emms",
+      "runtimeExecutable": "powershell",
+      "runtimeArgs": ["-NoProfile", "-ExecutionPolicy", "Bypass", "-File", "C:\\Users\\RDConde\\AppData\\Local\\Temp\\claude\\7f9c08627528d62e\\e930208f-3731-4e3b-8b69-22bece816c57\\scratchpad\\serve.ps1", "-Root", "C:\\Users\\RDConde\\OneDrive - Leonio Group (1)\\Desktop\\Memo System\\Screenshots\\EMMS-App", "-Port", "8781"],
+      "port": 8781
+    }
+  ]
+}
